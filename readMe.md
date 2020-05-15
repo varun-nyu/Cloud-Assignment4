@@ -16,7 +16,7 @@ The following email id can be used to test the functioning model for spam classi
 - Varun Ojha : vo383@nyu.edu
 - Vishwajeet Dagar : vd954@nyu.edu
 
-!(OUTPUT1.jpeg)
-!(OUTPUT2.jpeg)
-!(OUTPUT3.jpeg)
-!(OUTPUT4.jpeg)
+!(OUTPUT1.jpg)
+!(OUTPUT2.jpg)
+!(OUTPUT3.jpg)
+!(OUTPUT4.jpg)
